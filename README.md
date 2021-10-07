@@ -2,7 +2,12 @@
 
 ---
 
-
+## Runtime highway example
+<p align="center">
+  <img src="visualizations/runtime-highway-example.gif"
+       alt="runtime-highway-example.gif"
+       width=100%>
+</p>
 
 ---
 
